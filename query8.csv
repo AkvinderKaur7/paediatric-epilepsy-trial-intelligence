@@ -1,0 +1,12 @@
+phases,trial_status_clean,sponsor_type,total_trials
+PHASE2/PHASE3,Other,Government/Other,5
+PHASE2/PHASE3,Completed,Academic,2
+PHASE3,Completed,Government/Other,2
+PHASE3,Other,Academic,2
+PHASE2/PHASE3,Completed,Government/Other,2
+"Not Specified",Other,Academic,2
+PHASE2,Completed,Academic,1
+PHASE4,Other,Academic,1
+"Not Specified",Other,Government/Other,1
+PHASE2/PHASE3,Other,Academic,1
+PHASE2/PHASE3,Recruiting,Academic,1
